@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://milkyway45.github.io/mindmap-infinite-site/sitemap.xml

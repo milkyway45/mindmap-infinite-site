@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://milkyway45.github.io/mindmap-infinite-site/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://milkyway45.github.io/mindmap-infinite-site/assets/feature-graphic-1024x500.png</image:loc>
+      <image:title>Mindmap Infinite branching ideas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://milkyway45.github.io/mindmap-infinite-site/assets/screenshots/phone-01-maps.png</image:loc>
+      <image:title>Mindmap Infinite map screen</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://milkyway45.github.io/mindmap-infinite-site/assets/screenshots/phone-02-search.png</image:loc>
+      <image:title>Search maps in Mindmap Infinite</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://milkyway45.github.io/mindmap-infinite-site/privacy.html</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
